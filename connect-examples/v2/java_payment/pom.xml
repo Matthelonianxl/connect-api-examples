@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.squareup</groupId>
       <artifactId>square</artifactId>
-      <version>4.0.0.20191217</version>
+      <version>4.1.0.20200122</version>
     </dependency>
 
     <dependency>
