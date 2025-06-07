@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 ruby '2.3.1'
-gem 'square_connect', '2.20190313.1'
-gem 'sinatra', '~> 2.0'
+gem 'square_connect', '2.20190327.1.292'
+gem 'sinatra', '~> 2.0', '>= 2.0.6'
